@@ -2132,4 +2132,4 @@ const FighterWeightApp = () => {
   );
 };
 
-export default FighterWeightApp;
+export default App;
